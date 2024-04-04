@@ -1,2 +1,2 @@
-# nanodegree_project_2
-This repository contains end to end implementation of MLOps.
+# udacity_mlops
+This is a repository which has the solution for AirBNB modelling as a reproducible pipeline
