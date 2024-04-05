@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/A118390615/Desktop/udacity/udacity_mlops/mlruns/0/2a0e518bf85b47b19bb9f88c9dde9c84/artifacts
+end_time: 1712307497991
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a0e518bf85b47b19bb9f88c9dde9c84
+run_name: kindly-sloth-905
+run_uuid: 2a0e518bf85b47b19bb9f88c9dde9c84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712306244416
+status: 3
+tags: []
+user_id: A117870943

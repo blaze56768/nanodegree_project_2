@@ -1,0 +1,54 @@
+{
+    "os": "macOS-14.3-arm64-arm-64bit",
+    "python": "3.10.0",
+    "heartbeatAt": "2024-04-05T09:52:50.622264",
+    "startedAt": "2024-04-05T09:52:49.681965",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--mlflow_model",
+        "random_forest_export:prod",
+        "--test_dataset",
+        "test_data.csv:latest"
+    ],
+    "state": "running",
+    "program": "/Users/A117870943/Documents/Chapter/ML_DEVOPS/Reproducible_Workflow/nanodegree_project_2/components/test_regression_model/run.py",
+    "codePathLocal": "run.py",
+    "codePath": "components/test_regression_model/run.py",
+    "git": {
+        "remote": "https://github.com/blaze56768/nanodegree_project_2.git",
+        "commit": "d5c4c0b5bc75b6c16168b4e29f8e13bf9c56d6f3"
+    },
+    "email": "chaturvedivikas059@gmail.com",
+    "root": "/Users/A117870943/Documents/Chapter/ML_DEVOPS/Reproducible_Workflow/nanodegree_project_2",
+    "host": "T000ec830e",
+    "username": "A117870943",
+    "executable": "/Users/A117870943/anaconda3/envs/mlflow-aca668dff4b4e454dd502d3d803604a064e08173/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 10,
+    "cpu_freq": {
+        "current": 3228,
+        "min": 600,
+        "max": 3228
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3228,
+            "min": 600,
+            "max": 3228
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 13.369686126708984
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 16.0
+    }
+}

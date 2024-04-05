@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/A118390615/Desktop/udacity/udacity_mlops/mlruns/0/2fa7d204f2774fe5b7b54754b746aaa7/artifacts
+end_time: 1712305994630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fa7d204f2774fe5b7b54754b746aaa7
+run_name: peaceful-croc-473
+run_uuid: 2fa7d204f2774fe5b7b54754b746aaa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712305809878
+status: 4
+tags: []
+user_id: A117870943

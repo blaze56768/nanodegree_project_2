@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/A118390615/Desktop/udacity/udacity_mlops/mlruns/0/a38fad9a1c8d422b8a20614e1a995126/artifacts
+end_time: 1712310783645
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: a38fad9a1c8d422b8a20614e1a995126
+run_uuid: a38fad9a1c8d422b8a20614e1a995126
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712310625020
+status: 4
+tags: []
+user_id: A117870943
